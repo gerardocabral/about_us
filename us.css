@@ -1,0 +1,67 @@
+body {
+  background-color: #1d3341;
+}
+
+p {
+  color: #c2bdb1;
+}
+
+.img {
+  height: 300px;
+  width: 400px;
+}
+
+#gerardo {
+  width: 45%;
+  float:left;
+  padding-left: 25px;
+  font-family: 'Advent Pro', sans-serif;
+  font-size: 12.5pt;
+
+}
+
+#luke {
+  width: 45%;
+  float:right;
+  padding-right: 40px;
+  font-family: 'Nixie One', cursive;
+}
+
+h1, h2, h3, h4, footer, ol {
+  color: #c2bdb1;
+}
+
+ol {
+  font-weight: bolder;
+float: left;
+padding-right: 20px;
+}
+
+footer {
+  clear: both;
+  text-align: center;
+  padding-top: 10px;
+}
+
+#sd {
+text-align: justify;
+}
+
+h1{
+  text-align: center;
+  font-family: 'Ultra', serif;
+  font-size: 100pt;
+}
+
+a:hover {
+  color: white;
+}
+
+a:visited{
+  color: grey;
+}
+
+#ig{
+
+  padding-top: 25px;
+}
